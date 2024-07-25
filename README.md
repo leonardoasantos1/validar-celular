@@ -14,6 +14,6 @@ Este projeto é um campo de entrada de celular com formatação automática e va
 - CSS3
 - JavaScript
 
-- ![image](https://github.com/user-attachments/assets/61d53986-8d92-4cec-9949-e1c7a1957631)
-- 
+![image](https://github.com/user-attachments/assets/61d53986-8d92-4cec-9949-e1c7a1957631)
+
 ![image](https://github.com/user-attachments/assets/f18ff7a9-6679-4c8d-9bf4-14f0b6da819f)
